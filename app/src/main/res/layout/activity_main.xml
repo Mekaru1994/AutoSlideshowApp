@@ -25,13 +25,13 @@
             android:id="@+id/backbutton"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
-            android:text="< 戻る" />
+            android:text="←戻る" />
 
         <Button
-            android:id="@+id/pause_nextbutton"
+            android:id="@+id/nextbutton"
             android:layout_width="100dp"
             android:layout_height="wrap_content"
-            android:text="進む >" />
+            android:text="進む →" />
 
         <Button
             android:id="@+id/start_button"
